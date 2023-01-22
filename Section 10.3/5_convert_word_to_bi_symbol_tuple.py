@@ -1,0 +1,1 @@
+print([*map(lambda symbol: (symbol.upper(), symbol.lower()), input().split())])
