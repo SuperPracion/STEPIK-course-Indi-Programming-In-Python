@@ -1,0 +1,1 @@
+print(any(word[0] in ('A', 'a') for word in input().split()))
